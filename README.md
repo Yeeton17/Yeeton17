@@ -1,8 +1,8 @@
 ![](https://github.com/Yeeton17/Yeeton17/blob/d7cf2dba13bf5ef5f4b75a3d4b66c289707b1d01/20240828_201010.jpg)
 
-## Hi there 👋 I'm Gian
+### Hi there 👋 I'm Gian
 
-Random 2nd Year IT Student and i do not know what i am doing.
+# Random 2nd Year IT Student and i program with Java most of the time but still practicing with C++
 <!--
 **Yeeton17/Yeeton17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
